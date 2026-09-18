@@ -3,12 +3,15 @@ public class Main {
         int numToExamine = 35;
         double numModulo = numToExamine % 2;
 
-        if (numModulo == 0) {
-            System.out.println(numToExamine + " is even");
-        }
-        else {
-            System.out.println(numToExamine + " is odd");
-        }
+        System.out.println("The result is " + numModulo)
+
+        
+        //if (numModulo == 0) {
+        //    System.out.println(numToExamine + " is even");
+        //}
+        //else {
+        //    System.out.println(numToExamine + " is odd");
+        //}
 
     }
 }
