@@ -3,7 +3,7 @@ public class Main {
         int numToExamine = 35;
         double numModulo = numToExamine % 2;
 
-        System.out.println("The result is " + numModulo)
+        System.out.println("The result is " + numModulo);
 
         
         //if (numModulo == 0) {
