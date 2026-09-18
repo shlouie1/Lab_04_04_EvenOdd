@@ -5,7 +5,7 @@ public class Main {
 
         System.out.println("The result is " + numModulo);
 
-        
+
         //if (numModulo == 0) {
         //    System.out.println(numToExamine + " is even");
         //}
